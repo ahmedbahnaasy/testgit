@@ -1,0 +1,13 @@
+body
+{
+    font-family: 'segoe ui light';
+}
+*
+{
+    border: solid 5px red;
+    padding: 20px;
+}
+#demo 
+{
+    background-color: orange;
+}
